@@ -11,29 +11,29 @@
 
 ## Прогресс
 
-[ ] **CubeAPI** - `45%`
+- [ ] **CubeAPI** - `45%`
 
-[ ] Auth-depend - `90%`
-[x] Regions-depend - `100%`
-[x] Groups-depend - `100%`
-[x] Marry-depend - `100%`
-[x] Factions-depend - `100%`
-[x] Holograms-depend - `100%`
-[x] Scoreboard-depend - `100%`
-[ ] BanSystem-depend - `70%`
-[x] Economy-depend - `100%`
-[x] CustomShop-depend - `100%`
-[x] Warps-depend - `100%`
-[ ] Kits-depend - `95%`
-[ ] Friends-depend - `10%`
-[ ] Cases-depend - `5%`
-[ ] Boxes-depend - `40%` `deprecated`
-[ ] AntiCheat - `20%`
-[ ] Shop-depend - `35%`
-[ ] Jail-depend - `0%`
-[ ] Business-depend - `0%`
-[ ] Statistic-depend - `0%`
-[ ] Tasks-depend - `30%`
+- [ ] Auth-depend - `90%`
+- [x] Regions-depend - `100%`
+- [x] Groups-depend - `100%`
+- [x] Marry-depend - `100%`
+- [x] Factions-depend - `100%`
+- [x] Holograms-depend - `100%`
+- [x] Scoreboard-depend - `100%`
+- [ ] BanSystem-depend - `70%`
+- [x] Economy-depend - `100%`
+- [x] CustomShop-depend - `100%`
+- [x] Warps-depend - `100%`
+- [ ] Kits-depend - `95%`
+- [ ] Friends-depend - `10%`
+- [ ] Cases-depend - `5%`
+- [ ] Boxes-depend - `40%` `deprecated`
+- [ ] AntiCheat - `20%`
+- [ ] Shop-depend - `35%`
+- [ ] Jail-depend - `0%`
+- [ ] Business-depend - `0%`
+- [ ] Statistic-depend - `0%`
+- [ ] Tasks-depend - `30%`
 
 ## Донат
 - Bitcoin (BTC): `bc1qvqvk47auq4dzgg8rqdvxz22x7m284cveaq0affcw97cta4d3da3q6kdlkv`
