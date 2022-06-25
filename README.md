@@ -41,5 +41,10 @@
 ## Соц. сети
 - VK: [Дима Чуркин](https://vk.com/qrvgqwe)
 
+## Контакты
+- Наша публичная беседа ВКонтакте: https://vk.me/join/AJQ1d6fFYSEvlSLlKASvsLCo
+
+Подать заявку на вступление в приватную беседу можно [тут](https://vk.me/public212882362)
+
 ## Лицензия
 Copyright © 2022 [qrvgqwe](https://github.com/qrvgqwe)
