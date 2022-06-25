@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./.github/readme/logo-ua.png" alt="MCPE.DEV" width="150">
+    <img src="./.github/readme/logo.png" alt="MCPE.DEV" width="150">
 </p>
 <h1 align="center">
     MCPE.DEV
