@@ -11,7 +11,7 @@
 
 ## Прогресс
 
-- [ ] **CubeAPI** - `45%`
+- [ ] **CubeAPI** - `50%`
 
 - [ ] Auth-depend - `90%`
 - [x] Regions-depend - `100%`
