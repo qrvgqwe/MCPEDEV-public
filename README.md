@@ -20,7 +20,7 @@
 - [x] Factions-depend - `100%`
 - [x] Holograms-depend - `100%`
 - [x] Scoreboard-depend - `100%`
-- [ ] BanSystem-depend - `70%`
+- [X] BanSystem-depend - `100%`
 - [x] Economy-depend - `100%`
 - [x] CustomShop-depend - `100%`
 - [x] Warps-depend - `100%`
