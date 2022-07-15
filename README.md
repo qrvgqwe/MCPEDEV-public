@@ -35,6 +35,9 @@
 - [ ] Statistic-depend - `0%`
 - [ ] Tasks-depend - `30%`
 
+## Предложения
+- todo
+
 ## Донат
 - Bitcoin (BTC): `bc1qvqvk47auq4dzgg8rqdvxz22x7m284cveaq0affcw97cta4d3da3q6kdlkv`
 
