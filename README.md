@@ -35,6 +35,14 @@
 - [ ] Statistic-depend - `0%`
 - [ ] Tasks-depend - `30%`
 
+### Ожидается обновление
+- Factions-depend `ближайшие пару дней`
+- Marry-depend `ближайшие пару дней`
+- Shop-depend `ближайшие пару дней`
+- Regions-depend `около недели`
+- Auth-depend `около недели`
+- Jail-depend `около недели`
+
 ## Донат
 - Bitcoin (BTC): `bc1qvqvk47auq4dzgg8rqdvxz22x7m284cveaq0affcw97cta4d3da3q6kdlkv`
 
